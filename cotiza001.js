@@ -1,8 +1,3 @@
-  
-  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-  
-  <script>
-  
   document.getElementById('ContinueButton').style.visibility='hidden';
   
       window.onload = function() 
@@ -269,4 +264,3 @@
       }
   
   
-  </script>
